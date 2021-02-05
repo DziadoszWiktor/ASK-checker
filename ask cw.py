@@ -1,7 +1,7 @@
 import random as rd
 """
 cw dec_bin
-cw dec_exa
+cw dec_hex
 cw potegi_2
 cw rejestry
 cw flagi
